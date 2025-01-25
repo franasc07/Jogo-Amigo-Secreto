@@ -51,7 +51,22 @@ Confira abaixo como a aplicação funciona:
 
 https://github.com/user-attachments/assets/d336b017-1b8a-43bd-b0cf-6fd335d86667
 
-## Você pode baixar ou acessar o repositório:  
-```bash
+----
+
+# Acesso ao Projeto
+*** Você pode baixar ou clonar o repositorio, através do link abaixo:
 git clone https://github.com/usuario/gerenciador-de-amigos.git
+
+---
+
+🛠️ Tecnologias Utilizadas
+ - HTML5: estrutura da aplicação
+ - CSS3: estilo e design
+ - JavaScript: lógica de manipulação de lista e sorteio
+   
+
+
+
+
+
 
