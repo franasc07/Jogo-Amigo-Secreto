@@ -13,8 +13,7 @@
 - [Funcionalidades e Demonstração da Aplicação](#-funcionalidades-e-demonstração-da-aplicação)  
 - [Acesso ao Projeto](#-acesso-ao-projeto)  
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-- [Pessoas Contribuidoras](#-pessoas-contribuidoras)  
-- [Pessoas Desenvolvedoras do Projeto](#-pessoas-desenvolvedoras-do-projeto)  
+- [Autores](#-pessoas-desenvolvedoras-do-projeto)  
   
 
 ---
@@ -54,7 +53,7 @@ https://github.com/user-attachments/assets/d336b017-1b8a-43bd-b0cf-6fd335d86667
 ----
 
 # Acesso ao Projeto
-*** Você pode baixar ou clonar o repositorio, através do link abaixo:
+Você pode baixar ou clonar o repositorio, através do link abaixo:
 https://github.com/franasc07/Jogo-Amigo-Secreto.git
 
 ---
@@ -67,6 +66,12 @@ https://github.com/franasc07/Jogo-Amigo-Secreto.git
 # Autores
 
 ![octocat-1737819286638](https://github.com/user-attachments/assets/536006a5-450d-4201-8a22-fe35eae00f45)
+
+
+
+
+
+
 
 
 
