@@ -66,7 +66,7 @@ https://github.com/franasc07/Jogo-Amigo-Secreto.git
 
 # Autores
 
-| 
+| https://github.com/franasc07
 | :---: | :---: | :---: |
    
 
