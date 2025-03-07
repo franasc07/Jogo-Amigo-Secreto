@@ -49,6 +49,7 @@ Confira abaixo como a aplicação funciona:
 4. Clique em **Sortear Amigo** para realizar o sorteio.  
 
 https://github.com/user-attachments/assets/d336b017-1b8a-43bd-b0cf-6fd335d86667
+App:https://franasc07.github.io/Jogo-Amigo-Secreto/ 
 
 ----
 
