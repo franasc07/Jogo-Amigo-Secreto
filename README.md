@@ -20,7 +20,7 @@
 
 ## 💡 Descrição do Projeto  
 
-O **Gerenciador de Amigos com Sorteio** é uma aplicação web interativa que permite:  
+O **Jogo do Amigo Secreto** é uma aplicação web interativa que permite:  
 - Adicionar amigos a uma lista.  
 - Remover amigos específicos.  
 - Sortear um nome aleatório entre os adicionados.  
