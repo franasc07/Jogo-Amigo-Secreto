@@ -1,4 +1,4 @@
-# 🎉 Gerenciador de Amigos com Sorteio 🎲  
+# 🎉 Jogo do Amigo Secreto 🎲  
 ![Jogo Amigo Secreto](https://github.com/user-attachments/assets/1499de0d-ba74-4bf8-b9ba-c8c41c3019ed)
 
 
